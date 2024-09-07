@@ -42,12 +42,18 @@ Experienced Software Engineer with expertise in Machine Learning and Back-End En
   - #### Large Scale Machine Learning/Demand forecasting|(ExpressJS, MS-SQL, ORM/Sequelize, PySpark/Spark-SQL, fbprophet, Azure Databricks):
 
     Worked in a highly cross-functional team to deliver an end-to-end analytics solution which processed large volumes of batch-data to provide insights into product sales of a multinational consumer goods and personal care corporation.
+    
       - Co-designed and implemented a demand-forecasting/ML pipeline using PySpark in Azure Databricks to periodically generate constrained and unconstrained demand forecasts.
+        
       - Worked with clients to define/implement methods to identify different inventory problems (eg. Out of Stock, Phantom Inventory) and calculate daily historical/future lost sales (~ several millions of dollars) due to each for various products across thousands of stores.
+        
       - Implemented and optimized read-intensive RESTful services and data-models using ExpressJS and MS-SQL to enable features like multi-tenancy and embedding of tenant specific power-BI dashboard views in the client-side ReactJS application.
+   
       - Monitored API response-times using Apache JMeter under concurrent loads and improved the same to remain within SLA parameters by incorporating simple caching where needed.     
 
-
+  - #### Digital Customer Experience Platform (Flask/Python/MySQL/Google-Cloud-Platform/OAuth-SSO/Microservices):
+    A digital customer experience platform - a suite of web applications (Flask/Django) - to track customer journey and engage with them via different channels at various touchpoints. The efforts were aimed at enhancing customer satisfaction and minimizing churn.
+      
 
 
 
