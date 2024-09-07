@@ -1,2 +1,3 @@
 # Digital-CV
-Here you'll find brief summaries of professional and personal projects I have undertaken in full-stack data science, server-side engineering.
+### ABOUT ME
+Experienced Software Engineer with expertise in Machine Learning and Back-End Engineering for Full-Stack Data Science projects: Data-Engineering, Server-Side (small to mid-scale web applications), Applied-Statistics/Machine-Learning. Have demonstrated resiliency, drive to innovate, ability to adapt to different technology stacks and leverage them to build robust web and data products. Accustomed to working effectively with highly cross-functional teams. 
