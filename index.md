@@ -6,8 +6,7 @@ Experienced Software Engineer with expertise in Machine Learning and Back-End En
 
 - ### Cyncly / Sr Data Engineer (Oct 2023 – June 2024)  
 
-  - #### Computer-Vision/AI Features | Interior Design Software (Python, MongoDB, Azure Synapse, Service Bus, FastAPI/Flask, Data Lake, Vertex AI): 
-  
+  - #### Computer-Vision/AI Features | Interior Design Software (Python, MongoDB, Azure Synapse, Service Bus, FastAPI/Flask, Data Lake, Vertex AI):
     As the newly formed A.I. Center of Excellence's first data engineer, I got to influence the team's strategic direction for its data operations as well as envision and implement mission-critical data-products and pipelines, with guidance from the team's Senior Architect, and in the process make hiring decisions to expand the team as well.    
 
     - Collaborated with AI teams to design data-models for a vector database, to optimize read-operations as needed by dependent REST APIs, while simultaneously contributing to the implementation of relevant APIs. 
@@ -40,7 +39,6 @@ Experienced Software Engineer with expertise in Machine Learning and Back-End En
 - ### Tredence Analytics Solutions Pvt. Ltd. |Software Engineer (June 2018 – July 2020) | Senior Software Engineer (July 2020 – June 2021) | Selected Work 
 
   - #### Large Scale Machine Learning/Demand forecasting|(ExpressJS, MS-SQL, ORM/Sequelize, PySpark/Spark-SQL, fbprophet, Azure Databricks):
-
     Worked in a highly cross-functional team to deliver an end-to-end analytics solution which processed large volumes of batch-data to provide insights into product sales of a multinational consumer goods and personal care corporation.
     
       - Co-designed and implemented a demand-forecasting/ML pipeline using PySpark in Azure Databricks to periodically generate constrained and unconstrained demand forecasts.
@@ -53,6 +51,35 @@ Experienced Software Engineer with expertise in Machine Learning and Back-End En
 
   - #### Digital Customer Experience Platform (Flask/Python/MySQL/Google-Cloud-Platform/OAuth-SSO/Microservices):
     A digital customer experience platform - a suite of web applications (Flask/Django) - to track customer journey and engage with them via different channels at various touchpoints. The efforts were aimed at enhancing customer satisfaction and minimizing churn.
+
+      - Implemented various Flask RESTful services, and made significant contributions to an existing large code base, to add a language translation-request tracking workflow to an application that enabled users to create customer-specific email templates. The translation-requests were processed by external services integrated with RESTful APIs.
+   
+      - Under the guidance of a lead data-scientist, worked on a churn-modelling ML project. Explored techniques for feature engineering (temporal features) and handling data imbalance (SMOTE). Experimented with different ensemble models. Implemented critical procedures using Python and delivered a final solution that helped the customers identify strong indicators of potential churn.
+   
+- ## SELECTED SIDE PROJECTS:
+  -  Json Object Navigator: Developers often work with extremely complex JSON data and end up spending a lot of manual effort to inspect and develop code to access data nested deep in the JSON structure. Built a Python API that automatically generates the code and hence saves manual efforts.
+ 
+  - Similar Content Based Image Search Application (Flask/Tensorflow/PyTorch/Redis-Queue/Docker/jQuery/Jinja): Developed a Flask application where users can upload  images and discover images with similar content from Google search based on image contents. Used pre-trained object detection as well as image captioning models. Used redis-queue to create background tasks for inference.
+ 
+  - Recommendation System API (Python/PyTorch): A python API that can be used to simulate online user interaction driven by different recommendation algorithms (MABT) and check effectiveness of the algorithms against each other using relevant statistical significance tests. Also wrote an implementation of ALS (Alternating Least Squares) with NumPy. Working on integrating ability to perform collaborative filtering on user interaction data.
+ 
+- ## MY SKILLS AND DOMAIN KNOWLEDGE:
+  - Programming: Python, NodeJS, MySQL. Familiar with Java/C++. Have an idea of ReactJS and Bootstrap 5. Familiar with various data structures, algorithms, OOP concepts.
+ 
+  - ML/AI/Statistical techniques: Statistical significance tests, PCA/Factor Analysis, Regression/classification models, Clustering, CV: object detection,segmentation etc., NLP: Information Retrieval (Rank SVM), Topic Modelling, Reinforcement Learning etc.
+    
+  - Tech Stack and Tools: Have worked on Flask, ExpressJS, AWS Redshift, PySpark, AWS S3, SNS-SQS, Azure, Google Cloud Platform, Scikit-Learn, Scipy, PyTorch, Tensorflow, Redis Queue.
+    
+  - Courses/Certifications: Deep Neural Networks with PyTorch
+ 
+- ## ACADEMICS:
+  B-Tech: Electrical and Electronics Engineering. | VIT VELLORE | 2014-18 
+
+- ## ACCOMPLISHMENTS:
+  Power Squad Award for impact on one of Tredence’s client’s digital customer experience solutions. 
+
+ 
+  
       
 
 
