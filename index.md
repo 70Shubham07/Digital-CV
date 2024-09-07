@@ -51,11 +51,11 @@
       - Monitored **API response-times using Apache JMeter under concurrent loads** and improved the same to remain within SLA parameters by incorporating simple caching where needed.     
 
   - #### Digital Customer Experience Platform (Flask/Python/MySQL/Google-Cloud-Platform/OAuth-SSO/Microservices):
-    A digital customer experience platform - a suite of web applications (Flask/Django) - to track customer journey and engage with them via different channels at various touchpoints. The efforts were aimed at enhancing customer satisfaction and minimizing churn.
+    A **digital customer experience platform** - a suite of web applications (Flask/Django) - to track customer journey and engage with them via different channels at various touchpoints. The efforts were aimed at enhancing customer satisfaction and minimizing churn.
 
-      - Implemented various Flask RESTful services, and made significant contributions to an existing large code base, to add a language translation-request tracking workflow to an application that enabled users to create customer-specific email templates. The translation-requests were processed by external services integrated with REST APIs. Also implemented automated statistical significance testing modules to measure effectiveness of content (**click-through rate**).
+      - **Implemented various Flask RESTful services**, and made significant contributions to an existing large code base, to add a language translation-request tracking workflow to an **application** that enabled users to **create customer-specific email templates**. The translation-requests were processed by external services integrated with REST APIs. Also implemented automated statistical significance testing modules to measure **effectiveness of content** (by **measuring click-through rates**).
    
-      - Under the guidance of a lead data-scientist, worked on a churn-modelling ML project. Explored **techniques for feature engineering (temporal features)** and handling **data imbalance** (SMOTE). Experimented with different ensemble models. Implemented critical procedures using Python and delivered a final solution that helped the customers **identify strong indicators of potential churn**.
+      - Under the guidance of a lead data-scientist, worked on a **churn-modelling** ML project. Explored **techniques for feature engineering (temporal features)** and handling **data imbalance** (SMOTE). Experimented with different ensemble models. Implemented critical procedures using Python and delivered a final solution that helped the customers **identify strong indicators of potential churn**.
    
 - ## SELECTED SIDE PROJECTS:
   -  Json Object Navigator: Developers often work with extremely **complex JSON** data and end up spending a lot of manual effort to inspect and develop code to access data nested deep in the JSON structure. Built a Python API that automatically **generates the code** and hence **saves manual efforts**.
