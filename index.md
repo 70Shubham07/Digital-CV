@@ -40,6 +40,7 @@ Experienced Software Engineer with expertise in Machine Learning and Back-End En
 - ### Tredence Analytics Solutions Pvt. Ltd. |Software Engineer (June 2018 – July 2020) | Senior Software Engineer (July 2020 – June 2021) | Selected Work 
 
   - #### Large Scale Machine Learning/Demand forecasting|(ExpressJS, MS-SQL, ORM/Sequelize, PySpark/Spark-SQL, fbprophet, Azure Databricks):
+
     Worked in a highly cross-functional team to deliver an end-to-end analytics solution which processed large volumes of batch-data to provide insights into product sales of a multinational consumer goods and personal care corporation.
       - Co-designed and implemented a demand-forecasting/ML pipeline using PySpark in Azure Databricks to periodically generate constrained and unconstrained demand forecasts.
       - Worked with clients to define/implement methods to identify different inventory problems (eg. Out of Stock, Phantom Inventory) and calculate daily historical/future lost sales (~ several millions of dollars) due to each for various products across thousands of stores.
