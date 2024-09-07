@@ -33,8 +33,11 @@ Experienced Software Engineer with expertise in Machine Learning and Back-End En
     - Proposed and ran experiments for an ML use-case to use image-annotations' meta-data to predict the time taken for annotating each image (takt) by a particular associate. Experimented with robust-regression models (handling outliers), and devised/implemented methods to flag takt as anomalous for new production jobs based on error between predicted and actual.
    
 
-  - ### Tool to Review Org Reporting Structure (DynamoDB, AWS-Lambda, Python, GraphQL):
-    Developed server-side procedures/code for a small-scale tool, to implement logic leveraging tree-traversal methods to navigate and enforce user made alterations in the org-structure: tree-abstract-data-structure/hierarchical-data stored in JSON format as items in DynamoDb. Considered multiple options and made trade-offs in terms of how to make the updates and persist the updated data in DynamoDb. 
+  - #### Tool to Review Org Reporting Structure (DynamoDB, AWS-Lambda, Python, GraphQL):
+    Developed server-side procedures/code for a small-scale tool, to implement logic leveraging tree-traversal methods to navigate and enforce user made alterations in the org-structure: tree-abstract-data-structure/hierarchical-data stored in JSON format as items in DynamoDb. Considered multiple options and made trade-offs in terms of how to make the updates and persist the updated data in DynamoDb.
+
+
+
    
 
 
