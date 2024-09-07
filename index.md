@@ -17,7 +17,7 @@ Experienced Software Engineer with expertise in Machine Learning and Back-End En
     - Implemented logging modules for convenient monitoring of highly complex data-transformation procedures, along with proposing incorporation of event-sourcing pattern into existing workflows for supporting debugging efforts. 
 
 
-- ### Amazon | Analytics (Business-Intelligence) Engineer ((June 2021 – Oct 2023) | Selected Projects 
+- ### Amazon | Analytics (Business-Intelligence) Engineer ((June 2021 – Oct 2023) | Selected Work 
 
   - #### Workforce Analytics (AWS-Lambda, Python, QuickSight, Pub-Sub (SNS-SQS), AWS Firehose, Redshift/Athena, PySpark, AWS Glue, AWS Step Functions, AWS S3): 
     Built multiple data-ingestion (real-time) and analytics workflows for customers at Amazon Science. The KPIs generated enabled ML-Engineers to gauge quality of human-annotated images’ data, used for training Computer Vision models, deployed at Amazon’s Robotics Fulfilment centers. 
@@ -37,8 +37,14 @@ Experienced Software Engineer with expertise in Machine Learning and Back-End En
     Developed server-side procedures/code for a small-scale tool, to implement logic leveraging tree-traversal methods to navigate and enforce user made alterations in the org-structure: tree-abstract-data-structure/hierarchical-data stored in JSON format as items in DynamoDb. Considered multiple options and made trade-offs in terms of how to make the updates and persist the updated data in DynamoDb.
 
 
+- ### Tredence Analytics Solutions Pvt. Ltd. |Software Engineer (June 2018 – July 2020) | Senior Software Engineer (July 2020 – June 2021) | Selected Work 
 
-   
+  - #### Large Scale Machine Learning/Demand forecasting|(ExpressJS, MS-SQL, ORM/Sequelize, PySpark/Spark-SQL, fbprophet, Azure Databricks):
+    Worked in a highly cross-functional team to deliver an end-to-end analytics solution which processed large volumes of batch-data to provide insights into product sales of a multinational consumer goods and personal care corporation.
+      - Co-designed and implemented a demand-forecasting/ML pipeline using PySpark in Azure Databricks to periodically generate constrained and unconstrained demand forecasts.
+      - Worked with clients to define/implement methods to identify different inventory problems (eg. Out of Stock, Phantom Inventory) and calculate daily historical/future lost sales (~ several millions of dollars) due to each for various products across thousands of stores.
+      - Implemented and optimized read-intensive RESTful services and data-models using ExpressJS and MS-SQL to enable features like multi-tenancy and embedding of tenant specific power-BI dashboard views in the client-side ReactJS application.
+      - Monitored API response-times using Apache JMeter under concurrent loads and improved the same to remain within SLA parameters by incorporating simple caching where needed.     
 
 
 
