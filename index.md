@@ -15,7 +15,7 @@
     - Implemented **logging modules** for convenient monitoring of highly **complex data-transformation procedures**, along with proposing incorporation of **event-sourcing pattern** into existing workflows for supporting debugging efforts. 
 
 
-- ### Amazon | Analytics (Business-Intelligence) Engineer ((June 2021 – Oct 2023) | Selected Work 
+- ### Amazon | Analytics (Business-Intelligence) Engineer (June 2021 – Oct 2023) | Selected Work 
 
   - #### Workforce Analytics (AWS-Lambda, Python, QuickSight, Pub-Sub (SNS-SQS), AWS Firehose, Redshift/Athena, PySpark, AWS Glue, AWS Step Functions, AWS S3): 
     Built multiple data-ingestion (real-time) and analytics workflows for customers at Amazon Science. The KPIs generated enabled ML-Engineers to **gauge quality of human-annotated images’ data**, used for **training Computer Vision** models, deployed at **Amazon’s Robotics Fulfilment centers**. 
