@@ -56,7 +56,7 @@
       - Under the guidance of a lead data-scientist, worked on a **churn-modelling** ML project. Explored **techniques for feature engineering (temporal features)** and handling **data imbalance** (SMOTE). Experimented with different ensemble models. Implemented critical procedures using Python and delivered a final solution that helped the customers **identify strong indicators of potential churn**.
    
 - ## SELECTED SIDE PROJECTS:
-  -  Json Object Navigator: Developers often work with extremely **complex JSON** data and end up spending a lot of manual effort to inspect and develop code to access data nested deep in the JSON structure. Built a Python API that automatically **generates the code** and hence **saves manual efforts**.
+  -  [Json Object Navigator](https://pypi.org/project/navigate-json/): Developers often work with extremely **complex JSON** data and end up spending a lot of manual effort to inspect and develop code to access data nested deep in the JSON structure. Built a Python API that automatically **generates the code** and hence **saves manual efforts**.
  
   - Similar Content Based Image Search Application (Flask/Tensorflow/PyTorch/Redis-Queue/Docker/jQuery/Jinja): Developed a Flask application where users can upload  images and discover images with similar content from Google search based on image contents. Used **pre-trained object detection** as well as **image captioning** models. Used **redis-queue** to create **background tasks for inference**.
  
