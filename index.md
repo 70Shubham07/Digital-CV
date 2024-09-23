@@ -8,11 +8,13 @@
   - #### Computer-Vision/AI Features | Interior Design Software (Python, MongoDB, Azure Synapse, Service Bus, FastAPI/Flask, Data Lake, Vertex AI):
     As the **newly formed A.I. Center of Excellence's first data engineer**, I got to **influence the team's strategic direction for its data operations** as well as **envision** and **implement foundational pipelines**, with guidance from the team's Senior Architect, and in the process make hiring decisions to expand the team as well.    
 
-    - Collaborated with AI teams to design data-models for a **vector database**, **optimized for read-operations** as needed by dependent REST APIs, while simultaneously contributing to the implementation of relevant APIs. 
+    - Collaborated to design data-models for a **vector database**, **optimized for read-operations** as needed by dependent REST APIs, while simultaneously contributing to the implementation of relevant APIs. 
 
     - Ideated and implemented an on-demand, idempotent batch data pipeline, hosted on **Azure Synapse**, empowering downstream teams with a **self-serve tool**, **reducing time** of **data acquisition and rationalization** by **90%**. 
 
-    - Implemented **logging modules** for convenient monitoring of highly **complex data-transformation procedures**, along with proposing incorporation of **event-sourcing pattern** into existing workflows for supporting debugging efforts. 
+    - Implemented **logging modules** for convenient monitoring of highly **complex data-transformation procedures**, along with proposing incorporation of **event-sourcing pattern** into existing workflows for supporting debugging efforts.
+   
+    - Collaborated to experiment with different **image-embedding generation** approaches to be used for **similarity matching**, by leveraging different computer vision models (Gemini 1.5 multi-modal) along with different off-the-shelf approaches such as grey-scaling as needed. 
 
 
 - ### Amazon | Analytics (Business-Intelligence) Engineer (June 2021 – Oct 2023) | Selected Work 
