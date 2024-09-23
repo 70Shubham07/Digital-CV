@@ -3,7 +3,7 @@
 
 ## MY EXPERIENCE
 
-- ### Cyncly / Sr Data Engineer (Oct 2023 – June 2024)  
+- ### Cyncly | Sr Data Engineer (Oct 2023 – June 2024)  
 
   - #### Computer-Vision/AI Features | Interior Design Software (Python, MongoDB, Azure Synapse, Service Bus, FastAPI/Flask, Data Lake, Vertex AI):
     As the **newly formed A.I. Center of Excellence's first data engineer**, I got to **influence the team's strategic direction for its data operations** as well as **envision** and **implement foundational pipelines**, with guidance from the team's Senior Architect, and in the process make hiring decisions to expand the team as well.    
