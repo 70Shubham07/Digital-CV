@@ -1,5 +1,5 @@
 ## ABOUT ME
-**Seasoned Software Engineer and Analyst** with experience working on a range of **Full-Stack Data Science** projects: **Data-Engineering, Server-Side (small to mid-scale web applications), Applied-Statistics** and **Machine-Learning**. Have demonstrated **resiliency**, **drive to innovate**, and **ability to adapt** to different technology stacks and leverage them to build robust web and data products. Accustomed to working effectively with highly **cross-functional teams**. 
+**Seasoned Software Engineer and Analyst** with experience working on a range of **Full-Stack Data Science** projects, and expertise in **Data-Engineering, Server-Side (small to mid-scale web applications), Applied-Statistics** and **Machine-Learning**. Have demonstrated **resiliency**, **drive to innovate**, and **ability to adapt** to different technology stacks and leverage them to build robust web and data products. Accustomed to working effectively with highly **cross-functional teams**. 
 
 ## MY EXPERIENCE
 
