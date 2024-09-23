@@ -65,7 +65,7 @@
 - ## MY SKILLS AND DOMAIN KNOWLEDGE:
   - Programming: Python, NodeJS, MySQL. Familiar with Java/C++. Have an idea of ReactJS and Bootstrap 5. Familiar with various data structures, algorithms, OOP concepts.
  
-  - ML/AI/Statistical techniques: Statistical significance tests, PCA/Factor Analysis, Regression/classification models, Clustering, CV: object detection,segmentation etc., NLP: Information Retrieval (Rank SVM), Topic Modelling, Reinforcement Learning etc.
+  - ML/AI/Statistical techniques: Statistical significance tests, PCA/Factor Analysis, Regression/classification models, Clustering, CV: object detection,segmentation etc., NLP, Reinforcement Learning etc.
     
   - Tech Stack and Tools: Have worked on Flask, ExpressJS, AWS Redshift, PySpark, AWS S3, SNS-SQS, Azure, Google Cloud Platform, Scikit-Learn, Scipy, PyTorch, Tensorflow, Redis Queue.
     
