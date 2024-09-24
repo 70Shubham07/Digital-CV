@@ -44,7 +44,7 @@
     
       - **Co-designed and implemented** a **demand-forecasting/ML pipeline using PySpark** in Azure Databricks to periodically generate constrained and unconstrained demand forecasts, hence helping **mitigate potential future losses** (projected to be **several millions of dollars**).
         
-      - Worked with clients to define/implement methods to **identify and mitigate** different inventory problems (eg. Out of Stock, Phantom Inventory) and **provide insight into historical lost sales** due to each for various products across thousands of stores.
+      - Worked with clients to define/implement methods to **identify and mitigate** different inventory problems (eg. Out of Stock, Phantom Inventory) and **provide insights into historical lost sales** due to each for various products across thousands of stores.
         
       - Implemented and optimized read-intensive RESTful services and data-models using ExpressJS and MS-SQL to enable features like multi-tenancy and embedding of tenant specific power-BI dashboard views in the client-side ReactJS application.
    
