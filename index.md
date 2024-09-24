@@ -71,10 +71,11 @@
     
   - Tech Stack and Tools: Have worked on Flask, ExpressJS, AWS Redshift, PySpark, AWS S3, SNS-SQS, Azure, Google Cloud Platform, Scikit-Learn, Scipy, PyTorch, Tensorflow, Redis Queue.
     
-  - Courses/Certifications: Deep Neural Networks with PyTorch
+  - Courses/Certifications: [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/verify/H2GUKP4FFVGU?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
  
 - ## ACADEMICS:
-  B-Tech: Electrical and Electronics Engineering. | VIT VELLORE | 2014-18 
+Currently pursuing Masters in Machine Learning and Data Science (Sep 2024 - Dec 2025) at McCormick School of Engineering, Northwestern University.  
+Undergrad (B-Tech): Electrical and Electronics Engineering | VIT VELLORE | 2014-18.
 
 - ## ACCOMPLISHMENTS:
   Power Squad Award for impact on one of Tredence’s client’s digital customer experience solutions. 
