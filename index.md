@@ -26,7 +26,7 @@
 
     - **Put contingency plans** in place to respond to **production issues** in a time-effective manner. Took initiatives to implement mechanisms to mitigate or **fix data-quality** problems **improving time-to-resolution** of bugs by **roughly 50%**. 
 
-    - Worked on effective **partitioning strategies** within different **data-lake zones** and explored **query prioritization features** using query and user groups on redshift to **improve response times**.  
+    - Worked on effective **partitioning strategies** within different **data-lake zones** and explored **query prioritization features** using query and user groups on redshift to **improve response times**, and observed an **improvement by 70%**.  
 
     - Developed **readable and re-usable** code modules, inculcating **relevant design principles**, and leveraged **event-driven architectural patterns** to create **idempotent and fault-tolerant pipelines** with well-planned **logging and alerts** in place.  
 
@@ -42,9 +42,9 @@
   - #### Large Scale Machine-Learning/Demand-forecasting|(ExpressJS, MS-SQL, ORM/Sequelize, PySpark/Spark-SQL, fbprophet, Azure Databricks):
     Worked in a highly **cross-functional team** to deliver an end-to-end analytics solution which processed **large volumes of batch-data** to provide **insights into product sales** of a multinational consumer goods and personal care corporation.
     
-      - **Co-designed and implemented** a **demand-forecasting/ML pipeline using PySpark** in Azure Databricks to periodically generate constrained and unconstrained demand forecasts.
+      - **Co-designed and implemented** a **demand-forecasting/ML pipeline using PySpark** in Azure Databricks to periodically generate constrained and unconstrained demand forecasts, hence helping **mitigate potential future losses** (projected to be **several millions of dollars**).
         
-      - Worked with clients to define/implement methods to identify different inventory problems (eg. Out of Stock, Phantom Inventory) and **calculate daily historical/future lost sales (~ several millions of dollars)** due to each for various products across thousands of stores.
+      - Worked with clients to define/implement methods to **identify and mitigate** different inventory problems (eg. Out of Stock, Phantom Inventory) and **provide insight into historical lost sales** due to each for various products across thousands of stores.
         
       - Implemented and optimized read-intensive RESTful services and data-models using ExpressJS and MS-SQL to enable features like multi-tenancy and embedding of tenant specific power-BI dashboard views in the client-side ReactJS application.
    
@@ -55,7 +55,7 @@
 
       - **Implemented various Flask RESTful services**, and made significant contributions to an existing large code base, to add a language translation-request tracking workflow to an **application** that enabled users to **create customer-specific email templates**. The translation-requests were processed by external services integrated with REST APIs. Also implemented automated statistical significance testing modules to measure **effectiveness of content** (by **measuring click-through rates**).
    
-      - Under the guidance of a lead data-scientist, worked on a **churn-modelling** ML project. Explored **techniques for feature engineering (temporal features)** and handling **data imbalance** (SMOTE). Experimented with different ensemble models. Implemented critical procedures using Python and delivered a final solution that helped the customers **identify strong indicators of potential churn**.
+      - Under the guidance of a lead data-scientist, worked on a **churn-modelling** project. Explored **techniques for feature engineering (temporal features)** and handling **data imbalance** (SMOTE). Experimented with different ensemble models. Implemented critical procedures using Python and delivered a final solution that helped the customers **identify strong indicators of potential churn**.
    
 - ## SELECTED SIDE PROJECTS:
   -  [Json Object Navigator](https://pypi.org/project/navigate-json/): Developers often work with extremely **complex JSON** data and end up spending a lot of manual effort to inspect and develop code to access data nested deep in the JSON structure. Built a Python API that automatically **generates the code** and hence **saves manual efforts**.
